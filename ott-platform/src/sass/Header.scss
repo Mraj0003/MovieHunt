@@ -1,0 +1,9 @@
+@import "variable";
+
+.navbar{
+    background-color: $button-bg;
+    .navbar-brand{
+        font-size: $brand-title-size;
+
+    }
+}

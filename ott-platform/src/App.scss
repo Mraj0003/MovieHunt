@@ -1,0 +1,8 @@
+@import "./sass/_variable.scss";
+
+body {
+  background-color: $primary-bg;
+  color:$font-color;
+  min-height: 75rem;
+  padding-top: 8rem;
+}
